@@ -64,30 +64,7 @@ Server list
 3. 172.23.32.84 (fgcz-kl-005)
 
 
-Note
-* We have **3** servers
-* Please use the assigned server as follows
 
-**Name**	| **Server**
--------|-------
-Demarchi,G.	| 172.23.30.6
-Duvoisin,D.	| 172.23.30.6
-Huber,M.	| 172.23.30.6
-Keller,T.	| 172.23.30.6
-Kirkby,B.	| 172.23.30.6
- &nbsp;| &nbsp;
-Krapf,L.	| 172.23.30.200
-Marfurt,S.	| 172.23.30.200
-Martini,R.	| 172.23.30.200
-Mudavamkunnel,M.M.	| 172.23.30.200
-Sager,R.	| 172.23.30.200
- &nbsp;| &nbsp;
-Schulz,P.	| 172.23.32.84
-Solari,C.	| 172.23.32.84
-Solís,S.J.D.	| 172.23.32.84
-Ulutekin,A.C.	| 172.23.32.84
-Vetsch,F.	| 172.23.32.84
-Stefanini,C.	| 172.23.32.84
 
 Note
 * The password characters are not shown in the terminal, but the system can recognize your password. Please press enter-key after typing your password
